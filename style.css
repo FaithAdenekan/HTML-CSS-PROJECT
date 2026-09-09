@@ -32,7 +32,7 @@ body{
 /* Hero Section Begins */
 section.hero-section{
     padding: 2rem 0;
-    background-image:url(../IMAGES/0W2A0634.webp);
+    background-image:url(IMAGES/0W2A0634.webp);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -214,7 +214,7 @@ button#Roasting:hover{
     background-color: #333;
 }
 .section3{
-    background-image: url(../IMAGES/DSC_3892.webp);
+    background-image: url(IMAGES/DSC_3892.webp);
     background-repeat: no-repeat;
     height: 535px;
     background-position: center;
